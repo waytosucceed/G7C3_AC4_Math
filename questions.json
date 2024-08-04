@@ -1,0 +1,32 @@
+[
+  {
+      "question": "A warehouse has -100 units of a product. If they receive a shipment of 150 units and then sell 120 units, what is the current inventory level?",
+      "options": ["170", "130", "-70", "-30"],
+      "correct": 2,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "A basketball team has a win-loss record of 12-8. If they win 5 more games and then lose 3 games, what is their updated win-loss record?",
+      "options": ["17 - 11", "7 - 5", "15 - 13", "3 - 9"],
+      "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "A hiker starts at an elevation of 500 metres, climbs 300 metres, descends 150 metres, and then climbs another 200 metres. What is the final elevation?",
+      "options": ["150 metres", "850 metres", "700 metres", "None of the above"],
+      "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "A business has a revenue of -$10,000 in January. In February, they earn $15,000, and in March, they incur a loss of $8,000. What is their net revenue over the three months?",
+      "options": ["$3,000", "$2,000", "-$3,000", "-$5,000"],
+      "correct": 2,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "question": "A store has -171 units of an item due to overbooking. They receive 600 units in the next shipment and sell 256 units. What is the final inventory count?",
+      "options": ["173", "685", "415", "429"],
+      "correct": 0,
+      "img": "./assests/images/5.jpg"
+  }
+]
